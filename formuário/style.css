@@ -1,0 +1,15 @@
+.centro{
+    text-align: center;
+}
+#l1{
+    font-weight: bolder;
+}
+
+.escuro{
+    background-color: #2E2E2E;
+    color: #d0d0d0;
+}
+
+fieldset{
+    margin: 10px;
+}
